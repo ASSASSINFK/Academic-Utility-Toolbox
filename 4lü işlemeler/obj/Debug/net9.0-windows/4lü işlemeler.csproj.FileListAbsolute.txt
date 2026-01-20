@@ -1,0 +1,17 @@
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\bin\Debug\net9.0-windows\4lü işlemeler.exe
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\bin\Debug\net9.0-windows\4lü işlemeler.deps.json
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\bin\Debug\net9.0-windows\4lü işlemeler.runtimeconfig.json
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\bin\Debug\net9.0-windows\4lü işlemeler.dll
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\bin\Debug\net9.0-windows\4lü işlemeler.pdb
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\_4lü_işlemeler.Form1.resources
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\4lü işlemeler.csproj.GenerateResource.cache
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\4lü işlemeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\4lü işlemeler.AssemblyInfoInputs.cache
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\4lü işlemeler.AssemblyInfo.cs
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\4lü işlemeler.csproj.CoreCompileInputs.cache
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\4lü işlemeler.dll
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\refint\4lü işlemeler.dll
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\4lü işlemeler.pdb
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\4lü işlemeler.genruntimeconfig.cache
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\ref\4lü işlemeler.dll
+C:\Users\kilic\source\repos\4lü işlemeler\4lü işlemeler\obj\Debug\net9.0-windows\_4lü_işlemeler.Properties.Resources.resources
